@@ -3,7 +3,7 @@
 ## Description
 
 `specieurope_v3.0_cleanup` is designed to clean the `SPECIEUROPE v3.0` database up.
-`SPECIEUROPE` SPECIEUROPE is a database of European air pollution source profiles, designed for source apportionment and emission analysis, with species encoding aligned to the US EPA SPECIATE system. It contains ca. 200 particulate chemical profiles (organic and inorganic) derived from measurements, source apportionment studies, composites, and theoretical estimates.
+`SPECIEUROPE` is a database of European air pollution source profiles, designed for source apportionment and emission analysis, with species encoding aligned to the US EPA SPECIATE system. It contains ca. 200 particulate chemical profiles (organic and inorganic) derived from measurements, source apportionment studies, composites, and theoretical estimates.
 More information is available at https://source-apportionment.jrc.ec.europa.eu/Specieurope/index.aspx.
 
 ## What does the script do
