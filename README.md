@@ -31,7 +31,7 @@ Main cleanup steps:
 - With specific InChIKey values (e.g., mixtures, inorganic compounds & inorganic mixtures, etc.).
 - With unwanted keywords (e.g., mixtures, minerals, inorganic compounds & inorganic mixtures, etc.).
 
-8. Sort and save filtered CPDat as CSV file.
+8. Sort and save filtered SPECIEUROPE as CSV file.
 
 ## Prerequisites
 
